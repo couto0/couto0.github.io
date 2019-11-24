@@ -6,6 +6,9 @@ layout: default
 <br>
 
 ### Meus projetos
+#### [zapbot5000](https://github.com/couto0/zapbot5000) - Bot para WhatsApp  
+Um bot simples para whatsapp web usando selenium, pra realizar algumas funções úteis(algo como um assistente pessoal) e outras inúteis, como gerar montagens aleatórias(tipo um shitpostbot5000 ou o feijoada simulator).
+
 #### [LittleBug](https://github.com/couto0/LittleBug) - Ferramenta de depuração abreviada
 Este projeto transforma caracteres enviados de um microcontrolador via UART em mensagens legíveis, auxiliando na depuração e influenciando minimamente na execução do programa (uma vez que enviar uma longa mensagem com um `printf()` pode ser *muito lento*).
 
