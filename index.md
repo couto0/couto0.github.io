@@ -6,11 +6,11 @@ layout: default
 <br>
 
 ### Meus projetos
-#### [zapbot5000](https://github.com/couto0/zapbot5000) - Bot para WhatsApp  
-Um bot simples para whatsapp web usando selenium, pra realizar algumas funções úteis(algo como um assistente pessoal) e outras inúteis, como gerar montagens aleatórias(tipo um shitpostbot5000 ou o feijoada simulator).
+#### [TF2alertbot](https://github.com/couto0/TF2alertbot) - Bot do facebook
+Bot que gera uma combinação aleatória de 3 painéis do [Meet the Spy](https://www.youtube.com/watch?v=OR4N5OhcY9s) e posta automaticamente em sua página no facebook a cada 1 hora.
 
-#### [LittleBug](https://github.com/couto0/LittleBug) - Ferramenta de depuração abreviada
-Este projeto transforma caracteres enviados de um microcontrolador via UART em mensagens legíveis, auxiliando na depuração e influenciando minimamente na execução do programa (uma vez que enviar uma longa mensagem com um `printf()` pode ser *muito lento*).
+#### [fpga_neural_network](https://github.com/couto0/fpga_neural_network) - Rede neural em FPGA
+Rede neural implementada em VHDL para usar na placa DE0. Feito como trabalho final da disciplina SEL632 - Linguagens de Descrição de Hardware.
 
 #### [ATtiny13 SPI](https://github.com/couto0/attiny13_spi) - SPI para o ATtiny13A
 Implementação via software de um SPI simples para o microcontrolador ATtiny13A, que não possui este periférico. Escrevi esse programa para fazer testes com matrizes de LEDs.
